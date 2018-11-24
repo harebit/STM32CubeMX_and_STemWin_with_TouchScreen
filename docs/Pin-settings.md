@@ -1,5 +1,4 @@
 ## Pin Settings
-
 Pin Marking|-|-|-|-
 :---|---|---|---|---
 pin name STM32|PA4|PA1|PB10|PA9
