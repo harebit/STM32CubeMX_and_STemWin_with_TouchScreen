@@ -11,7 +11,7 @@ You have to link the objects from STemWin in the linker as you see in the pictur
 
 ![settings-linker](Other-objects.JPG)	
 
-
+In the folder docs i have made some sketches and a calculation for background knowledge.
  
 Compile the project and program your controller.
 
